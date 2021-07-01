@@ -1,3 +1,4 @@
+![3209967](https://user-images.githubusercontent.com/83172101/124177454-f25dc000-dab8-11eb-908b-7b62f2dcbdc7.jpg)
 ![about-russia-travel](https://user-images.githubusercontent.com/83172101/124176917-3e5c3500-dab8-11eb-8735-8b278550b708.jpg)
 # Проект: Путешествие по России
 
