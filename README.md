@@ -23,7 +23,7 @@
 
 **ссылка**
 
-[GitHub] https://github.com/EugeneScheglov/russian-travel
+__[GitHub]__ https://github.com/EugeneScheglov/russian-travel
 
 
 ![3209967](https://user-images.githubusercontent.com/83172101/124177454-f25dc000-dab8-11eb-908b-7b62f2dcbdc7.jpg)
