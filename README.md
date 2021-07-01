@@ -23,6 +23,6 @@
 
 **ссылка на GitHub**
 
-*.* https://github.com/EugeneScheglov/russian-travel.git *.*
+*.* https://github.com/EugeneScheglov/russian-travel *.*
 
 
