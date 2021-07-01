@@ -1,3 +1,4 @@
+![about-russia-travel](https://user-images.githubusercontent.com/83172101/124176917-3e5c3500-dab8-11eb-8735-8b278550b708.jpg)
 # Проект: Путешествие по России
 
 ### Введние
