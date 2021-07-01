@@ -1,0 +1,6 @@
+.lead__block {
+  position: relative;
+  max-width: 984px;
+  margin: 0 auto;
+  z-index: 1;
+}
